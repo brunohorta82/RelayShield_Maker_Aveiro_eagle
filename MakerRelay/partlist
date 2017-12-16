@@ -1,0 +1,16 @@
+Partlist
+
+Exported from Relay.sch at 16/12/2017 13:08
+
+EAGLE Version 8.3.2 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part       Value          Device     Package        Library        Sheet
+
+CONTROL                   PINHD-1X3M 1X03M          pinhead        1
+D1         1N4007         1N4004     DO41-10        diode          1
+L1         1k             L-EU0204/7 0204/7         resistor       1
+OUTPUT220V                PINHD-1X3M 1X03M          pinhead        1
+Q1         BC549C         BC549C     TO92-EBC       transistor-npn 1
+RELEUM     RELAYPTH       RELAYPTH   SRD-05VDC-SL-C SRD-05VDC-SL-C 1
